@@ -21,7 +21,7 @@ public class Server extends Thread implements TCPConnectionListener {
             @Override
             public void run() {
                 SetShipNULL();
-                try (ServerSocket serverSocket = new ServerSocket(8189)) {
+                try (ServerSocket serverSocket = new ServerSocket(8190)) {
                     System.out.println(serverSocket.getInetAddress());
                     while (true) {
                         if (connections.size() < 2) {
