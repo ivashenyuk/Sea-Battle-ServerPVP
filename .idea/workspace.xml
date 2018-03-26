@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00b17f95-3297-450d-989e-f267e2d39d58" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/serverPVP/Server.java" afterPath="$PROJECT_DIR$/src/com/company/serverPVP/Server.java" />
-    </list>
+    <list default="true" id="00b17f95-3297-450d-989e-f267e2d39d58" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -222,12 +219,12 @@
       <workItem from="1521131438835" duration="3775000" />
       <workItem from="1521440883388" duration="5094000" />
       <workItem from="1521465258083" duration="34411000" />
-      <workItem from="1521652203949" duration="323000" />
+      <workItem from="1521652203949" duration="402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43603000" />
+    <option name="totallyTimeSpent" value="43682000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="22" width="1936" height="1066" extended-state="6" />
